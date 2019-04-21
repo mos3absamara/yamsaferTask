@@ -28,7 +28,6 @@
 </template>
 
 <script>
-
   export default {
     data() {
       return {}
@@ -56,8 +55,9 @@
 
 <style scoped>
   div {
-    font-family: Courier New;
+    font-family: Courier New, serif;
     font-weight: bold;
+    color: slategrey;
   }
 
   table.table {

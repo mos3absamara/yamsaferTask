@@ -48,11 +48,14 @@
     flex-wrap: wrap;
     font-family: Courier New, serif;
     font-weight: bold;
+    color: slategrey;
   }
 
   h1 {
     margin: 5vh auto;
     width: fit-content;
+    color: slategrey;
+    font-weight: bold;
   }
 
   .card-text {

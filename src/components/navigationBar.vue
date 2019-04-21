@@ -3,7 +3,6 @@
     <img alt="Left image" title="yamsafer logo"
          src="https://cdn.yamsafer.com/TheShip/_next/static/images/YamsaferLogoEn-0c424fd844abc43df9b2066c8f11dbfb.png"
          width="100" height="50"/>
-
     <div id="links">
       <router-link exact to="/">Destinations</router-link>
       <router-link exact to="/wishlist">Wishlist</router-link>
@@ -44,7 +43,6 @@
   }
 
   #links {
-    /*box-sizing: border-box;*/
     margin: 3vh auto;
     display: inline-block;
   }
