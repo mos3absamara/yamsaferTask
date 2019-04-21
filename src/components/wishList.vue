@@ -3,7 +3,7 @@
     <h3 v-show="!show()"> Wish List Is Empty
       <font-awesome-icon icon="sad-tear"/>
     </h3>
-    <table v-show="show()" class="table b-table table-responsive table-hover">
+    <table v-show="show()" class="table b-table table-striped table-hover table-responsive ">
       <thead role="rowgroup" class>
       <tr role="row">
         <th role="columnheader" scope="col" aria-colindex="1" class>Destination Name</th>
